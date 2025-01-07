@@ -450,7 +450,7 @@ $$
 
 各指标详细计算过程详情请看[**第二章任务介绍**](#2-任务介绍)。
 
-各任务的baseline请点击[这里](https://github.com/ymcui/Chinese-Cloze-RC)查看。
+各任务的baseline请点击[**这里**](https://github.com/isShayulajiao/CCL25-Eval-ZhengMing/blob/main/static/README.md)查看。
 
 
 ---
