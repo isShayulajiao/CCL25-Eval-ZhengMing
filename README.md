@@ -448,7 +448,9 @@ $$
 | 文学语言风格转换            | ClaTrans     | 2,000 | BERTScore-F1, BARTScore          |
 
 
-各指标详细计算过程详情请看[**第二章任务介绍**](#2-任务介绍)
+各指标详细计算过程详情请看[**第二章任务介绍**](#2-任务介绍)。
+
+各任务的baseline请点击[这里](https://github.com/ymcui/Chinese-Cloze-RC)查看。
 
 
 ---
