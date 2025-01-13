@@ -542,7 +542,7 @@ python eval.py \
 
 ## 6.2 论文格式
 
-- 提交论文的格式统一使用CCL 2025 的[论文LaTex模版](http://cips-cl.org/static/CCL2024/downloads/ccl2023_template.zip)
+- 提交论文的格式统一使用CCL 2025 的论文LaTex模版([直接下载](http://cips-cl.org/static/CCL2024/downloads/ccl2023_template.zip)，[龙文平台](http://cips-cl.org/static/CCL2024/downloads/ccl2023_template.zip))
 
 - 论文可由中文或英文撰写，最多6页正文，参考文献页数不限。
 
