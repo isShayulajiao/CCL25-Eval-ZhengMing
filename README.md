@@ -594,13 +594,15 @@ $$\text{任务得分} = \frac{\sum_{j=1}^{m} \text{指标得分}_j}{m}$$
 ## 8 企业赞助
 
 <img src="https://virtaitech.com/images/bg_compute.jpeg" alt="Virual Tech Logo" height="60">
+
 趋动科技（[VirtAITech](https://virtaicloud.com/)）作为软件定义AI算力技术的领导厂商，专注于为全球用户提供国际领先的数据中心级AI算力虚拟化和资源池化软件及解决方案。
 
 * 本次评测任务由趋动科技重磅推出的AI开发训练平台“趋动云（virtaicloud.com）”独家冠名，并为每个参赛队伍提供免费300算力金赞助，可自由选择空闲显卡。
 * 每个参赛队伍必须通过报名发放算力金，需以老师的名义注册账号且仅提供一次算力支持不能成员累积叠加，超出算力的费用会被限制使用，可联系企业另行协商。
 
 <img src="https://i.postimg.cc/FHLHKz4V/20250113132845.png" alt="LoongTex Tech Logo" height="70">
-龙文（[LoongTeX](https://app.loongtex.com/)）是为科研人员设计的全新 LaTeX 平台，集白板、笔记、论文写作于一体，支持云端协作，利用多模态 AI全程参与学术润色提升科研效率。
+
+龙文([LoongTex](https://app.loongtex.com/))是为科研人员设计的全新 LaTeX 平台，集白板、笔记、论文写作于一体，支持云端协作，利用多模态 AI全程参与学术润色提升科研效率。  
 
 ## 9 评测报名及语料申请
 
