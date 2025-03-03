@@ -196,8 +196,8 @@ $$
 
 
 其中：
-- F1_i 是类别 \i\ 的 F1-score。
-- Support_i  是类别 i 的样本数。
+- \text{F1_i} 是类别 i 的 F1-score。
+- \text{Support_i}  是类别 i 的样本数。
 
 **评价指标的说明：**
 - **高 Weighted F1-score** 表示模型能够有效、全面地识别出评论中的情感倾向，表现较好。
