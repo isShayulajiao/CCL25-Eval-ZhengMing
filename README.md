@@ -190,7 +190,9 @@ $$
 **Weighted F1-score 计算过程：**
 在多类别情感分析中，**Weighted F1-score** 是根据每个类别的 F1-score 和该类别的支持度（样本数量）加权平均得到的：
 
-$\text{Weighted F1-score} = \frac{\sum_{i} (F1_i \times \text{支持度}_i)}{\sum_{i} \text{支持度}_i}$
+$$
+\text{Weighted F1-score} = \frac{\sum_{i} (F1_i \times \text{支持度}_i)}{\sum_{i} \text{支持度}_i}
+$$
 
 其中：
 - \( F1_i \) 是类别 \(i\) 的 F1-score。
