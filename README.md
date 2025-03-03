@@ -194,9 +194,10 @@ $$
 \text{Weighted F1-score} = \frac{\sum_{i} (F1_i \times \text{支持度}_i)}{\sum_{i} \text{支持度}_i}
 $$
 
+
 其中：
-- \ F1_i \ 是类别 \i\ 的 F1-score。
-- \ \text{支持度}_i  是类别 \(i\) 的样本数。
+- F1_i 是类别 \i\ 的 F1-score。
+- text{支持度}_i  是类别 i 的样本数。
 
 **评价指标的说明：**
 - **高 Weighted F1-score** 表示模型能够有效、全面地识别出评论中的情感倾向，表现较好。
