@@ -511,7 +511,7 @@ $$
 ```bash
 git clone https://github.com/isShayulajiao/CCL25-Eval-ZhengMing.git
 cd CCL25-Eval-ZhengMing
-pip install -r requirements
+pip install -r requirements.txt
 cd src/literature-evaluation
 pip install -e .[multilingual]
 ```
