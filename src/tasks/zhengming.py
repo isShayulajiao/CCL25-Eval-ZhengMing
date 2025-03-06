@@ -9,7 +9,7 @@ from .utils import process_text\
 from .zhutils import process_zhtext
 from seqeval.metrics import f1_score as entity_score
 from sklearn.metrics import f1_score, matthews_corrcoef, mean_squared_error
-from metrics.BartScore.bart_score import BARTScorer
+from metrics.BARTScore.bart_score import BARTScorer
 
 
 class Classification(Task):
