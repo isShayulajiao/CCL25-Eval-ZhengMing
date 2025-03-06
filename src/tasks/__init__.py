@@ -4,7 +4,7 @@ from typing import List, Union
 import json
 import lm_eval.base
 
-from . import cleval
+from . import zhengming
 
 TASK_REGISTRY = {
     "ZM_critbias": zhengming.CritBias,
