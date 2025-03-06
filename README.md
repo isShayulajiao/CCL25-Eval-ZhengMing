@@ -511,8 +511,6 @@ $$
 ```bash
 git clone https://github.com/isShayulajiao/CCL25-Eval-ZhengMing.git
 cd CCL25-Eval-ZhengMing
-conda env create -f environment.yml
-conda env activate zhengming_environment
 pip install -r requirements
 cd src/literature-evaluation
 pip install -e .[multilingual]
