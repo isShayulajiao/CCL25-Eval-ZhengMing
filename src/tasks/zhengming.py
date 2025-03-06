@@ -4,7 +4,7 @@ import evaluate
 import numpy as np
 from lm_eval.base import Task, rf
 from lm_eval.metrics import mean, bleu, chrf, ter
-from .utils import process_text\
+from .utils import process_text
 
 from .zhutils import process_zhtext
 from seqeval.metrics import f1_score as entity_score
