@@ -6,7 +6,7 @@ scikit-learn
 sentencepiece
 pandas
 seqeval
-numpy
+numpy==1.26.2
 evaluate
 openai
 rank_bm25
