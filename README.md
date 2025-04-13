@@ -59,6 +59,7 @@
 
 ## 更新
 
+[2025/04/13] 应CCL评测组委会要求，测试集结果提交截止时间由2025年5月31日提前至2025年5月20日。并且各参赛队伍需要在[openreview](https://openreview.net/group?id=cips-cl.org/CCL/2025/Workshop/Eval#tab-recent-activity)提交一份技术报告，技术报告格式见[CCL2025](http://cips-cl.org/static/CCL2025/downloads/ccl2025_template.zip)
 [2025/03/09] 🔥 报名截至时间由3月9号延迟至4月30日。
 
 ---
