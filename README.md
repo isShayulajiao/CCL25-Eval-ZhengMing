@@ -3,7 +3,7 @@
 <img src='https://iili.io/2Gn6ZhB.png' alt='ZhengMing Logo' height='150px'>
 </div>
  
-# <p align="center"><font size=50><strong>中国文学语言理解评测-争鸣</strong></font></p>
+# <p align="center"><font size=50><strong>[中国文学语言理解评测-争鸣](http://www.cips-cl.org/static/CCL2025/cclEval/taskEvaluation/index.html#%E4%BB%BB%E5%8A%A17%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%E8%AF%AD%E8%A8%80%E7%90%86%E8%A7%A3%E8%AF%84%E6%B5%8B%EF%BC%88%E4%BA%89%E9%B8%A3%EF%BC%89)</strong></font></p>
 
 
 <div> 
