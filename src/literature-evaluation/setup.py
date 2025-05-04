@@ -25,7 +25,7 @@ setuptools.setup(
     ],
     python_requires=">=3.9",
     install_requires=[
-        datasets==2.19.1",
+        "datasets==2.19.1",
         "einops",
         "jsonlines",
         "numexpr",
