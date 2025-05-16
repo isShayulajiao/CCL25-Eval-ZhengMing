@@ -59,7 +59,7 @@
 
 ## 更新
 
-[2025/05/16] 论文或技术报告[提交入口](https://openreview.net/group?id=cips-cl.org/CCL/2025/Workshop/Eval#tab-recent-activity)开放时间为5月20日，6月1日截止。  
+[2025/05/16] 论文或技术报告[提交入口](https://openreview.net/group?id=cips-cl.org/CCL/2025/Workshop/Eval#tab-recent-activity)开放时间为5月20日，提交入口关闭时间为6月1日。  
 [2025/05/16] 论文录用最迟通知为2025年6月15日。  
 [2025/04/26] 🚀 CCL25-Eval-Zhenming（争鸣）已经上线阿里云天池AI大模型比赛[任务7-争鸣](https://tianchi.aliyun.com/competition/entrance/532327)，进行实时排名。 根据压缩文件[阿里云天池-CCL25Eval-ZhengMing.rar](https://github.com/isShayulajiao/CCL25-Eval-ZhengMing/blob/main/%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%A9%E6%B1%A0-CCL25Eval-ZhengMing.rar)中的评测脚本文件(若压缩文件无法使用请在[这里](https://pan.baidu.com/s/1p5R02kgXFG9udQZRUFxmoA?pwd=44jr)下载)，会自动回传排名结果。我们会在截止时间取排名前6的队伍进行复现。  
 [2025/04/17] 应CCL评测组委会要求，测试集结果提交截止时间由2025年5月31日提前至2025年5月20日。并且各参赛队伍需要在2025年5月20日之前在[openreview](https://openreview.net/group?id=cips-cl.org/CCL/2025/Workshop/Eval#tab-recent-activity)提交一份技术报告或论文(技术报告正文至少两页，参考文献不计；中文论文正文4-6页页，英文4页，参考文献和附录不计)，格式见[CCL2025](http://cips-cl.org/static/CCL2025/downloads/ccl2025_template.zip)。  
